@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T06:40:33.267Z" agent="5.0 (Windows)" etag="R0xd0dlDKll9YTngs03_" version="17.2.3" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-03-27T11:37:33.102Z" agent="5.0 (Windows)" etag="FsysnDX0oQwbm-64L3im" version="17.2.4" type="github" pages="15">
   <diagram id="LlxU2Rt_fdJ_yRomHSrM" name="第 1 页">
     <mxGraphModel dx="1422" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -158,6 +158,66 @@
         </mxCell>
         <mxCell id="KLbS6ewnMwPU_4sufOw8-0" value="&lt;font style=&quot;font-size: 41px&quot;&gt;工作流第一版&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gfaHoqAROKCdBywjChFc-1">
           <mxGeometry x="158" y="-12" width="256" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GDnjf6zW4jdYeptAGU4c" name="English Learning">
+    <mxGraphModel dx="2222" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u0Bw_CogdR6_OAfWXjxr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u0Bw_CogdR6_OAfWXjxr-1" target="u0Bw_CogdR6_OAfWXjxr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u0Bw_CogdR6_OAfWXjxr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u0Bw_CogdR6_OAfWXjxr-1" target="u0Bw_CogdR6_OAfWXjxr-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-37" y="574" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u0Bw_CogdR6_OAfWXjxr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u0Bw_CogdR6_OAfWXjxr-1" target="u0Bw_CogdR6_OAfWXjxr-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-37" y="471" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u0Bw_CogdR6_OAfWXjxr-1" value="&lt;div&gt;输入&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-97" y="278" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u0Bw_CogdR6_OAfWXjxr-2" value="输出 " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="467" y="278" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u0Bw_CogdR6_OAfWXjxr-4" value="&lt;div&gt;无中间输出&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="176" y="244" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u0Bw_CogdR6_OAfWXjxr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u0Bw_CogdR6_OAfWXjxr-5" target="u0Bw_CogdR6_OAfWXjxr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u0Bw_CogdR6_OAfWXjxr-5" value="例子A" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="176" y="441" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u0Bw_CogdR6_OAfWXjxr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u0Bw_CogdR6_OAfWXjxr-6" target="u0Bw_CogdR6_OAfWXjxr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u0Bw_CogdR6_OAfWXjxr-6" value="例子B" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="178" y="544" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u0Bw_CogdR6_OAfWXjxr-16" value="&lt;font style=&quot;font-size: 20px&quot;&gt;1.看英文的解释&lt;br&gt;2.多看例句体会意思&lt;br&gt;3.选择常用的简单句&lt;br&gt;4.看句子--想场景&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;5.表达欲---打字&lt;br&gt;6.听句子---想场景&lt;br&gt;7.表达欲---说句子&lt;br&gt;8.改单词---再重复&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-373" y="602" width="279" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="u0Bw_CogdR6_OAfWXjxr-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="u0Bw_CogdR6_OAfWXjxr-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="840" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-136" y="1018" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u0Bw_CogdR6_OAfWXjxr-35" value="warnings&lt;br&gt;1.过程中不要依靠意识&lt;br&gt;2.以句子为单位&lt;br&gt;3.多例子学习(重复例子的重复)&lt;br&gt;4.输出输入始终一致" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-548" y="586" width="138" height="132" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
