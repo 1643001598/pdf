@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1">
+  <diagram name="第 1 页" id="wfS26gRl99ZaTinIi7WI">
+    <mxGraphModel dx="2223" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uoqX4GrcPoDtxnCFppDX-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="800" width="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="uoqX4GrcPoDtxnCFppDX-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="800" width="640" x="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="uoqX4GrcPoDtxnCFppDX-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="280" width="1280" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="uoqX4GrcPoDtxnCFppDX-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="280" width="640" x="1280" y="800" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
