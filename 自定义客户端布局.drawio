@@ -4,17 +4,104 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uoqX4GrcPoDtxnCFppDX-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="uoqX4GrcPoDtxnCFppDX-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=25;" value="&lt;blockquote&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;图传&lt;/font&gt;&lt;/blockquote&gt;" vertex="1">
           <mxGeometry height="800" width="1280" as="geometry" />
         </mxCell>
-        <mxCell id="uoqX4GrcPoDtxnCFppDX-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="uoqX4GrcPoDtxnCFppDX-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;h1&gt;&lt;font&gt;小地图（上下布局）&lt;br&gt;包含标点工具？&lt;/font&gt;&lt;/h1&gt;" vertex="1">
           <mxGeometry height="800" width="640" x="1280" as="geometry" />
         </mxCell>
-        <mxCell id="uoqX4GrcPoDtxnCFppDX-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="280" width="1280" y="800" as="geometry" />
+        <mxCell id="uoqX4GrcPoDtxnCFppDX-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="280" width="960" y="800" as="geometry" />
         </mxCell>
-        <mxCell id="uoqX4GrcPoDtxnCFppDX-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="uoqX4GrcPoDtxnCFppDX-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" vertex="1">
           <mxGeometry height="280" width="640" x="1280" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;font&gt;操控面板：自定义指令&lt;br&gt;英雄：部署模式&lt;br&gt;飞手：空支相关&lt;br&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="280" width="320" x="960" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="" vertex="1">
+          <mxGeometry height="280" width="560" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="" vertex="1">
+          <mxGeometry height="280" width="210" x="560" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;font&gt;飞镖目标&amp;nbsp; |↓|&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="190" x="770" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="开闸" vertex="1">
+          <mxGeometry height="40" width="90" x="770" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="发射" vertex="1">
+          <mxGeometry height="40" width="100" x="860" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="兑17mm弹" vertex="1">
+          <mxGeometry height="100" width="190" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="付费复活" vertex="1">
+          <mxGeometry height="80" width="190" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="激活能量机关" vertex="1">
+          <mxGeometry height="100" width="190" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="兑42mm弹" vertex="1">
+          <mxGeometry height="100" width="180" x="190" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="远程补弹" vertex="1">
+          <mxGeometry height="80" width="180" x="190" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="" vertex="1">
+          <mxGeometry height="100" width="190" x="190" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="确认复活" vertex="1">
+          <mxGeometry height="100" width="190" x="370" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="远程回血" vertex="1">
+          <mxGeometry height="80" width="190" x="370" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="" vertex="1">
+          <mxGeometry height="100" width="190" x="370" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="发射机构选项&amp;nbsp; |↓|" vertex="1">
+          <mxGeometry height="60" width="210" x="560" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="底盘选项&amp;nbsp; |↓|" vertex="1">
+          <mxGeometry height="60" width="210" x="560" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;font&gt;剩余时间：总时间&lt;/font&gt;" vertex="1">
+          <mxGeometry height="140" width="300" x="1280" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="" vertex="1">
+          <mxGeometry height="140" width="300" x="1280" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="" vertex="1">
+          <mxGeometry height="140" width="340" x="1580" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="" vertex="1">
+          <mxGeometry height="140" width="340" x="1580" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="己方基地状态" vertex="1">
+          <mxGeometry height="30" width="340" x="1580" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="己方前哨状态" vertex="1">
+          <mxGeometry height="30" width="340" x="1580" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="敌方基地状态" vertex="1">
+          <mxGeometry height="30" width="340" x="1580" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="敌方前哨状态" vertex="1">
+          <mxGeometry height="30" width="340" x="1580" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="经济：0" vertex="1">
+          <mxGeometry height="70" width="150" x="1280" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="总伤害（己）" vertex="1">
+          <mxGeometry height="70" width="150" x="1280" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="总伤害（敌）：" vertex="1">
+          <mxGeometry height="70" width="150" x="1430" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="2nHmlUprGRS5LVN_FCQ3-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="科技等级" vertex="1">
+          <mxGeometry height="70" width="150" x="1430" y="940" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
